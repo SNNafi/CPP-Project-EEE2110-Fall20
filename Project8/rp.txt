@@ -1,0 +1,2 @@
+Patient Name	Age	Cell No	Doctor Name	Day	Time
+dgf		6		6		Dr. A		2		3

@@ -1,0 +1,11 @@
+Medicine Name	Company	Unit Price	Quantity	Arival Date	Expiry Date
+Napa		Beximco		1		250		27.9.2011		6.2.2030
+Fluclox		Incepta		5		403		27.9.2011		6.2.2030
+Aapa		Beximco		1		434		27.9.2011		6.2.2030
+Sapa		Beximco		1		250		27.9.2011		6.2.2030
+Dluclox		Incepta		5		403		27.9.2011		6.2.2030
+Fapa		Beximco		1		434		27.9.2011		6.2.2030
+Hapa		Beximco		1		250		27.9.2011		6.2.2030
+Jluclox		Incepta		5		403		27.9.2011		6.2.2030
+Eapa		Beximco		1		434		27.9.2011		6.2.2030
+dgdf		sdgsg		3.46364e+06		3463		rg		dfg

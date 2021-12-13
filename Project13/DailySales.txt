@@ -1,0 +1,2 @@
+CustomerID	CustomerName	BookID	BookName	            Quantity	Status(B/P)	Price
+2			Sh			     1		Saḥiḥ al-Bukharī		20			P			100000
